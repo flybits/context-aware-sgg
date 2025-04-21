@@ -3,5 +3,5 @@ yacs
 cython
 matplotlib
 tqdm
-torchtext==0.4
+torchtext==0.18.0
 pandas
