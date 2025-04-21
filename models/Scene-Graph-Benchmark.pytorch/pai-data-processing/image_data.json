@@ -1,0 +1,1010 @@
+[
+    {
+        "width": 2490,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20150517_1357_1.jpg",
+        "height": 1866,
+        "image_id": 1,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1330,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20150517_1358_2.jpg",
+        "height": 1030,
+        "image_id": 2,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20150518_1534_3.jpg",
+        "height": 2448,
+        "image_id": 3,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2448,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20150806_1427_4.jpg",
+        "height": 3264,
+        "image_id": 4,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20150903_1609_5.jpg",
+        "height": 2448,
+        "image_id": 5,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 640,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20151031_1730_6.jpg",
+        "height": 480,
+        "image_id": 6,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1632,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20151113_1718_7.jpg",
+        "height": 1224,
+        "image_id": 7,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20151122_0008_8.jpg",
+        "height": 2448,
+        "image_id": 8,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20151122_0009_9.jpg",
+        "height": 2448,
+        "image_id": 9,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 640,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20151231_2049_10.jpg",
+        "height": 480,
+        "image_id": 10,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20160816_1843_11.jpg",
+        "height": 2448,
+        "image_id": 11,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161031_2110_12.jpg",
+        "height": 2448,
+        "image_id": 12,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161031_2126_13.jpg",
+        "height": 2448,
+        "image_id": 13,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161104_1321_14.jpg",
+        "height": 2448,
+        "image_id": 14,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161104_1516_15.jpg",
+        "height": 2448,
+        "image_id": 15,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161104_1518_16.jpg",
+        "height": 2448,
+        "image_id": 16,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161104_2005_17.jpg",
+        "height": 2448,
+        "image_id": 17,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161104_2006_18.jpg",
+        "height": 2448,
+        "image_id": 18,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161106_1224_19.jpg",
+        "height": 2448,
+        "image_id": 19,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161106_1506_20.jpg",
+        "height": 2448,
+        "image_id": 20,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161106_1725_21.jpg",
+        "height": 2448,
+        "image_id": 21,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161107_1238_22.jpg",
+        "height": 2448,
+        "image_id": 22,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161107_1353_23.jpg",
+        "height": 2448,
+        "image_id": 23,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20161107_1424_24.jpg",
+        "height": 2448,
+        "image_id": 24,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170101_1525_25.jpg",
+        "height": 2448,
+        "image_id": 25,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170101_1601_26.jpg",
+        "height": 2448,
+        "image_id": 26,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 640,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170101_1629_27.jpg",
+        "height": 480,
+        "image_id": 27,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170105_2141_28.jpg",
+        "height": 2448,
+        "image_id": 28,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170105_2142_29.jpg",
+        "height": 2448,
+        "image_id": 29,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170205_1406_30.jpg",
+        "height": 2448,
+        "image_id": 30,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20170224_1007_31.jpg",
+        "height": 2448,
+        "image_id": 31,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 800,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20171228_0814_32.jpg",
+        "height": 600,
+        "image_id": 32,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3088,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180221_0948_33.jpg",
+        "height": 2320,
+        "image_id": 33,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180224_1429_34.jpg",
+        "height": 4032,
+        "image_id": 34,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180422_2119_35.jpg",
+        "height": 2448,
+        "image_id": 35,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3088,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180618_1158_36.jpg",
+        "height": 2320,
+        "image_id": 36,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180802_2057_37.jpg",
+        "height": 2448,
+        "image_id": 37,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180816_1503_38.jpg",
+        "height": 2448,
+        "image_id": 38,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3088,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180820_1809_39.jpg",
+        "height": 2320,
+        "image_id": 39,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1440,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20180822_1415_40.jpg",
+        "height": 1440,
+        "image_id": 40,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181005_1648_41.jpg",
+        "height": 3024,
+        "image_id": 41,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181005_1833_42.jpg",
+        "height": 2448,
+        "image_id": 42,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181031_1915_43.jpg",
+        "height": 4032,
+        "image_id": 43,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1632,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181031_1927_44.jpg",
+        "height": 1224,
+        "image_id": 44,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4898,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181110_1157_45.jpg",
+        "height": 3265,
+        "image_id": 45,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1080,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181110_1751_46.jpg",
+        "height": 1920,
+        "image_id": 46,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181116_2148_47.jpg",
+        "height": 3024,
+        "image_id": 47,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181118_1855_48.jpg",
+        "height": 3024,
+        "image_id": 48,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2682,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181118_1916_49.jpg",
+        "height": 2682,
+        "image_id": 49,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20181216_1902_50.jpg",
+        "height": 4032,
+        "image_id": 50,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3264,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20190330_1933_51.jpg",
+        "height": 2448,
+        "image_id": 51,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20190706_1152_52.jpg",
+        "height": 4032,
+        "image_id": 52,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3000,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20190728_1339_53.jpg",
+        "height": 2250,
+        "image_id": 53,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20190812_1311_54.jpg",
+        "height": 3024,
+        "image_id": 54,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20190813_1442_55.jpg",
+        "height": 4032,
+        "image_id": 55,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20190915_1152_56.jpg",
+        "height": 4032,
+        "image_id": 56,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20191010_1945_57.jpg",
+        "height": 4032,
+        "image_id": 57,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20191027_0514_58.jpg",
+        "height": 3088,
+        "image_id": 58,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20191027_0515_59.jpg",
+        "height": 3024,
+        "image_id": 59,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20200210_1820_60.jpg",
+        "height": 4032,
+        "image_id": 60,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20200318_1422_61.jpg",
+        "height": 4032,
+        "image_id": 61,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20200708_2038_62.jpg",
+        "height": 3024,
+        "image_id": 62,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210331_2020_63.jpg",
+        "height": 4032,
+        "image_id": 63,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1536,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210528_1212_64.jpg",
+        "height": 709,
+        "image_id": 64,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210801_2355_65.jpg",
+        "height": 4032,
+        "image_id": 65,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210802_1830_66.jpg",
+        "height": 3024,
+        "image_id": 66,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3000,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210802_1835_67.jpg",
+        "height": 2250,
+        "image_id": 67,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210905_2124_68.jpg",
+        "height": 3024,
+        "image_id": 68,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3088,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20210911_1233_69.jpg",
+        "height": 2316,
+        "image_id": 69,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20211007_1340_70.jpg",
+        "height": 4032,
+        "image_id": 70,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20211214_2003_71.jpg",
+        "height": 3088,
+        "image_id": 71,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220118_1118_72.jpg",
+        "height": 4032,
+        "image_id": 72,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220119_1615_73.jpg",
+        "height": 768,
+        "image_id": 73,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220203_1458_74.jpg",
+        "height": 4032,
+        "image_id": 74,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220324_1732_75.jpg",
+        "height": 3024,
+        "image_id": 75,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220327_2003_76.jpg",
+        "height": 4032,
+        "image_id": 76,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220501_1346_77.jpg",
+        "height": 3024,
+        "image_id": 77,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220501_1418_78.jpg",
+        "height": 3024,
+        "image_id": 78,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220711_0122_79.jpg",
+        "height": 4032,
+        "image_id": 79,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1200,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220715_1945_80.jpg",
+        "height": 1600,
+        "image_id": 80,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 768,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220716_1251_81.jpg",
+        "height": 1024,
+        "image_id": 81,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1200,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220718_1123_82.jpg",
+        "height": 1600,
+        "image_id": 82,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220722_0640_83.jpg",
+        "height": 4032,
+        "image_id": 83,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220722_1215_84.jpg",
+        "height": 4032,
+        "image_id": 84,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220802_1914_85.jpg",
+        "height": 3024,
+        "image_id": 85,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2499,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220803_1854_86.jpg",
+        "height": 3515,
+        "image_id": 86,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20220909_1532_87.jpg",
+        "height": 3088,
+        "image_id": 87,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20230311_2229_88.jpg",
+        "height": 3024,
+        "image_id": 88,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3073,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20230416_2120_89.jpg",
+        "height": 2305,
+        "image_id": 89,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20230721_2104_90.jpg",
+        "height": 4032,
+        "image_id": 90,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20230802_2011_91.jpg",
+        "height": 3024,
+        "image_id": 91,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20230923_1919_92.jpg",
+        "height": 3088,
+        "image_id": 92,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231014_1700_93.jpg",
+        "height": 4032,
+        "image_id": 93,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231027_2145_94.jpg",
+        "height": 4032,
+        "image_id": 94,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231031_1941_95.jpg",
+        "height": 3024,
+        "image_id": 95,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2503,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231210_2008_96.jpg",
+        "height": 3337,
+        "image_id": 96,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231224_1920_97.jpg",
+        "height": 3024,
+        "image_id": 97,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231228_2019_98.jpg",
+        "height": 4032,
+        "image_id": 98,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231229_1515_99.jpg",
+        "height": 3024,
+        "image_id": 99,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231229_2210_100.jpg",
+        "height": 3024,
+        "image_id": 100,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231230_1304_101.jpg",
+        "height": 4032,
+        "image_id": 101,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20231230_1519_102.jpg",
+        "height": 3024,
+        "image_id": 102,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240129_2151_103.jpg",
+        "height": 3024,
+        "image_id": 103,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240304_2129_104.jpg",
+        "height": 3088,
+        "image_id": 104,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240407_1627_105.jpg",
+        "height": 3024,
+        "image_id": 105,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240407_1628_106.jpg",
+        "height": 3088,
+        "image_id": 106,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240407_1629_107.jpg",
+        "height": 3088,
+        "image_id": 107,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 2316,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240530_1652_108.jpg",
+        "height": 3088,
+        "image_id": 108,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240531_0913_109.jpg",
+        "height": 4032,
+        "image_id": 109,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 3024,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240601_1233_110.jpg",
+        "height": 4032,
+        "image_id": 110,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 4032,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240601_1640_111.jpg",
+        "height": 3024,
+        "image_id": 111,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    },
+    {
+        "width": 1179,
+        "url": "/home/ubuntu/code/context-aware-sgg/models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/sg-images/20240602_1810_112.jpg",
+        "height": 2096,
+        "image_id": 112,
+        "coco_id": null,
+        "flickr_id": null,
+        "anti_prop": 0.0
+    }
+]

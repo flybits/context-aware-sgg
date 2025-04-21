@@ -1,0 +1,70 @@
+.DS_Store
+data/
+model-ckpts/
+tested-outputs__pycache__/
+__pycache__/
+*.pyc
+tested-outputs
+models/Scene-Graph-Benchmark.pytorch/datasets/vg/
+aux_models/
+models/reltr/reltr-ckpt
+
+data-helper-scripts/scene-graph-TF-release/
+llm-postprocessing/pai_helper.py
+llm-postprocessing/__pycache__
+llm-postprocessing/finetune/__pycache__
+llm-postprocessing/finetune-raw-data/
+llm-postprocessing/finetune/data/
+llm-postprocessing/rule-based-prompt.txt
+llm-postprocessing/finetune/meta/finetuned-models/
+
+
+# scene-graph-TF-release datafiles
+data-helper-scripts/scene-graph-TF-release/data_tools/VG/
+
+
+
+#from sg-benchmark .gitignore:
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+maskrcnn_benchmark.egg-info/
+build/
+dist/
+
+# ipython/jupyter notebooks
+#*.ipynb
+**/.ipynb_checkpoints/
+
+# checkpoint
+checkpoint/
+
+# dataset
+datasets/vg/
+*.png
+*.jpg
+*.jpeg
+
+!images/*.png
+
+models/Scene-Graph-Benchmark.pytorch/datasets/custom-data/
+models/Scene-Graph-Benchmark.pytorch/visualization/sgg-output-images/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# vscode editor settings
+.vscode
+
+
+
+
+!models/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/data/
